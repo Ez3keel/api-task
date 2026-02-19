@@ -8,4 +8,4 @@ adicionar usuário - feito
 
 deletar usuário - feito
 
-editar usuário - 
+editar usuário - feito
