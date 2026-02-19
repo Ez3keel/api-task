@@ -1,0 +1,11 @@
+
+
+Erro quando faço o POST ele insere os dados mas volta um erro no console - feito
+
+pegar usuários - feito
+
+adicionar usuário - feito
+
+deletar usuário - feito
+
+editar usuário - 
